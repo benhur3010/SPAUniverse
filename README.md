@@ -6,4 +6,4 @@ Projeto desenvolvido via JavaScript com a utilização do JASON para linkar as p
 
 ## Stack utilizada
 
-**Front-end:** HTML / CSS / JavaScrip
+HTML / CSS / JavaScrip
